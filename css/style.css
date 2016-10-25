@@ -73,6 +73,7 @@ input.output {
   font-weight: bold;
   border: none;
   color: black;
+  width: 500px;
 }
 
 button {
